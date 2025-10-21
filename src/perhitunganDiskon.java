@@ -84,7 +84,6 @@ public class perhitunganDiskon extends javax.swing.JFrame {
             }
         });
 
-        btnHitung.setBackground(new java.awt.Color(102, 102, 102));
         btnHitung.setText("Hitung");
         btnHitung.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
